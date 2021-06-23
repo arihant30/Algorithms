@@ -1,3 +1,5 @@
-    int addition(int A, int B){
+class Solution{
+    static int addition(int A, int B){
         return A+B;
     }
+}
